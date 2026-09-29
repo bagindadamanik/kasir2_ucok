@@ -72,10 +72,10 @@
             </div>
         </div>
 
-        {{-- Register button --}}
+        {{-- Register button 
         <button type="submit" class="btn btn-primary btn-block">
             {{ __('adminlte::adminlte.register') }}
-        </button>
+        </button>--}}
     </form>
 @stop
 
